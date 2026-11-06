@@ -1,5 +1,7 @@
 # Promvia MCP server
 
+[![mcptry](https://mcptry.com/badge/app.promvia/promvia)](https://mcptry.com/servers/app.promvia/promvia)
+
 Promvia's official hosted [Model Context Protocol](https://modelcontextprotocol.io/) server. Promvia measures where ChatGPT, Perplexity, Gemini, Google AI Overviews and other AI engines mention and cite a website, and which sources they cite instead. Through this server an assistant reads those results and acts on them.
 
 - **Endpoint:** `https://promvia.app/api/mcp` (Streamable HTTP)
